@@ -27,7 +27,6 @@ The dataset (text) used in this project is the "Journey to the West" novel. "Jou
 
 
 
----
 # <a name="conclusion">Discussion and Conclusion</a>
 In this project, we have performed NLP on the "Journey to the West" i.e. <<西游记>> novel. In particular, we have segmented the Chinese words, cleaned the word segments by removing stopwords (words which occur frequently but do not contain important significance and are therefore deemed irrelevant), counted the top 100 most frequently appeared word segments, and finally visualized the frequently appearing words in a wordcloud image. 
 
